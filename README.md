@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📧 Spam Email Detection System
 
 A complete Machine Learning project that classifies emails as **Spam** or **Ham (Not Spam)** using NLP and two ML models: Naive Bayes and SVM.
@@ -144,3 +145,7 @@ Opens a browser UI at `http://localhost:8501` where you can:
 | NLTK data missing | Script auto-downloads `stopwords`, `punkt` |
 | Model not found (CLI) | CLI auto-trains the model first |
 | `streamlit` not found | Run `pip install streamlit` |
+=======
+# SPAMSHIELD_A_Spam-Email-Classifier
+🛡️ Spam Email Detection System using ML - Naive Bayes + SVM with dark-themed Streamlit UI
+>>>>>>> 96f6c30e2134dc903bdead0649f42be694d7f67e
